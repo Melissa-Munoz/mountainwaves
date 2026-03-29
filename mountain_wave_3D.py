@@ -366,7 +366,7 @@ if __name__ == "__main__":
 # Phase tilt evolution 
 # Breaking region?
 # 2D vs 3D
-# Quantify turbulence (from momemtum flux bar{u'w'}?)
+# Quantify turbulence (from momemtum flux bar{u'w'}? ricahrdon number? PSD?)
 
 # Propagating = wave can exist aloft, energy goes upward, m^2 > 0
 # Trapped = wave cannot reach aloft, energy stays near the surface, m^2<0
