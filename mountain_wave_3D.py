@@ -360,3 +360,18 @@ if __name__ == "__main__":
     plot_phi_slices(result)
     plot_uvw_slices(result)
     
+
+# Vary non-dimensional parameter, Froude number U/Nh for stability tests
+# Illustrate Trapped vs propagating (maybe with Amplitude vs height animation)
+# Phase tilt evolution 
+# Breaking region?
+# 2D vs 3D
+# Quantify turbulence (from momemtum flux bar{u'w'}?)
+
+# Propagating = wave can exist aloft, energy goes upward, m^2 > 0
+# Trapped = wave cannot reach aloft, energy stays near the surface, m^2<0
+# Breaking = wave becomes too large and collapses, wave collapses nonlinear, m*eta ~ 1 ( w = U deta/dx)
+
+# Fr >> 1	weak stratification / strong flow
+# Fr~1 nonlinear transition
+# Fr << 1 strong stratification / weak flow
